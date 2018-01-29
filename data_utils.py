@@ -1,10 +1,10 @@
 # import DBcm
 
 # config = {
-#     'user': 'scoreuser',
-#     'password': 'scorepasswd',
-#     'host': 'localhost',  # Change this on PythonAnywhere.
-#     'database': 'scoresDB',
+
+#   place working sql here 
+#
+#
 # }
 
 
